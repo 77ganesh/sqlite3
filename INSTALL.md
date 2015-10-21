@@ -1,6 +1,8 @@
 # Installation to Android device [root required]
 
-First push the compiled binary to sdcard
+First compile the sqlite3 binary from this repo or get the precompiled version (for Zenfone and other x86) [here](https://drive.google.com/file/d/0B5_UZxmxKGUgOFV4ekFLZWV0Vk0/view?usp=sharing)
+
+Then push the compiled binary to sdcard
 
 	adb push /path/to/sqlite3 /sdcard/sqlite3
     
